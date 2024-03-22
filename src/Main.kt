@@ -5,7 +5,7 @@ fun main() {
 }
 
 private fun singletonPattern() {
-    for (i in 1..10) {
+    for (i in 1..11) {
         println(CounterSingleton.increment())
     }
 }
