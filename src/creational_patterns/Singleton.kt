@@ -1,3 +1,5 @@
+package creational_patterns
+
 import java.util.concurrent.atomic.AtomicInteger
 
 object CounterSingleton {
